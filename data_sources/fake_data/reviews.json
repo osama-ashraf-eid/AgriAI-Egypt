@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rev-001",
+    "reviewerId": "user-trader-001",
+    "reviewerName": "سامي التاجر",
+    "targetFarmerId": "user-farm-001",
+    "targetFarmerName": "أحمد الفيومي",
+    "orderId": "ord-001",
+    "rating": 5,
+    "comment": "بضاعة ممتازة وتسليم في الوقت، التعامل محترم جداً والبطاطس درجة أولى",
+    "isApproved": true,
+    "createdAt": "2024-10-20"
+  },
+  {
+    "id": "rev-002",
+    "reviewerId": "user-trader-002",
+    "reviewerName": "كريم أحمد",
+    "targetFarmerId": "user-farm-002",
+    "targetFarmerName": "محمد السيد",
+    "orderId": "ord-002",
+    "rating": 4,
+    "comment": "طماطم طازجة بس التأخير في الشحن",
+    "isApproved": true,
+    "createdAt": "2024-10-25"
+  },
+  {
+    "id": "rev-003",
+    "reviewerId": "user-trader-001",
+    "reviewerName": "سامي التاجر",
+    "targetFarmerId": "user-farm-002",
+    "targetFarmerName": "محمد السيد",
+    "orderId": "ord-002",
+    "rating": 5,
+    "comment": "تعامل ممتاز والمنتج بالضبط زي ما اتفقنا",
+    "isApproved": true,
+    "createdAt": "2024-11-01"
+  },
+  {
+    "id": "rev-004",
+    "reviewerId": "user-trader-001",
+    "reviewerName": "سامي التاجر",
+    "targetFarmerId": "user-farm-005",
+    "targetFarmerName": "إبراهيم حسن",
+    "orderId": "ord-003",
+    "rating": 5,
+    "comment": "الذرة الصفراء جودة عالية جداً والتسليم قبل الموعد",
+    "isApproved": true,
+    "createdAt": "2024-11-07"
+  }
+]

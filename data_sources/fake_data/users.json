@@ -1,0 +1,104 @@
+[
+  {
+    "id": "user-farm-001",
+    "fullName": "أحمد الفيومي",
+    "role": "Farmer",
+    "isVerified": true,
+    "joinDate": "2023-05-01",
+    "farmerProfile": {
+      "farmName": "مزرعة الفيوم الخضراء",
+      "description": "مزرعة متخصصة في الخضروات الجذرية والبطاطس",
+      "farmSize": 5.5,
+      "governorate": "الفيوم"
+    }
+  },
+  {
+    "id": "user-farm-002",
+    "fullName": "محمد السيد",
+    "role": "Farmer",
+    "isVerified": true,
+    "joinDate": "2023-03-15",
+    "farmerProfile": {
+      "farmName": "مزرعة البحيرة",
+      "description": "خضروات طازجة من البحيرة مباشرة طماطم وخيار",
+      "farmSize": 3.0,
+      "governorate": "البحيرة"
+    }
+  },
+  {
+    "id": "user-farm-003",
+    "fullName": "علي عبدالله",
+    "role": "Farmer",
+    "isVerified": false,
+    "joinDate": "2024-01-10",
+    "farmerProfile": {
+      "farmName": "مزرعة الشرقية",
+      "description": "تخصص في البصل والثوم والخضروات الجافة",
+      "farmSize": 8.0,
+      "governorate": "الشرقية"
+    }
+  },
+  {
+    "id": "user-farm-004",
+    "fullName": "أحمد خليل",
+    "role": "Farmer",
+    "isVerified": true,
+    "joinDate": "2023-07-20",
+    "farmerProfile": {
+      "farmName": "مزرعة الإسماعيلية للفاكهة",
+      "description": "فاكهة طازجة فراولة وعنب",
+      "farmSize": 4.0,
+      "governorate": "الإسماعيلية"
+    }
+  },
+  {
+    "id": "user-farm-005",
+    "fullName": "إبراهيم حسن",
+    "role": "Farmer",
+    "isVerified": true,
+    "joinDate": "2022-11-01",
+    "farmerProfile": {
+      "farmName": "مزرعة المنيا للحبوب",
+      "description": "حبوب ومحاصيل استراتيجية ذرة وقمح",
+      "farmSize": 12.0,
+      "governorate": "المنيا"
+    }
+  },
+  {
+    "id": "user-farm-006",
+    "fullName": "خالد النجار",
+    "role": "Farmer",
+    "isVerified": true,
+    "joinDate": "2023-09-05",
+    "farmerProfile": {
+      "farmName": "مزرعة الفيوم الحمراء",
+      "description": "بطاطس حمراء ممتازة ومحاصيل الشتاء",
+      "farmSize": 6.0,
+      "governorate": "الفيوم"
+    }
+  },
+  {
+    "id": "user-trader-001",
+    "fullName": "سامي التاجر",
+    "role": "Trader",
+    "isVerified": true,
+    "joinDate": "2023-06-01",
+    "traderProfile": {
+      "businessName": "شركة سامي للتوريدات",
+      "businessType": "توريد خضروات",
+      "taxNumber": "123456789"
+    }
+  },
+  {
+    "id": "user-trader-002",
+    "fullName": "كريم أحمد",
+    "role": "Trader",
+    "isVerified": true,
+    "joinDate": "2023-08-20",
+    "traderProfile": {
+      "businessName": "كريم للمقاولات الغذائية",
+      "businessType": "استيراد وتصدير",
+      "taxNumber": "987654321"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bid-001",
+    "auctionId": "auct-001",
+    "bidderId": "user-trader-001",
+    "bidderName": "سامي التاجر",
+    "amount": 20,
+    "isWinning": false,
+    "bidTime": "2024-11-08T11:00:00"
+  },
+  {
+    "id": "bid-002",
+    "auctionId": "auct-001",
+    "bidderId": "user-trader-002",
+    "bidderName": "كريم أحمد",
+    "amount": 25,
+    "isWinning": true,
+    "bidTime": "2024-11-08T14:30:00"
+  },
+  {
+    "id": "bid-003",
+    "auctionId": "auct-002",
+    "bidderId": "user-trader-001",
+    "bidderName": "سامي التاجر",
+    "amount": 38,
+    "isWinning": true,
+    "bidTime": "2024-11-09T10:00:00"
+  },
+  {
+    "id": "bid-004",
+    "auctionId": "auct-003",
+    "bidderId": "user-trader-001",
+    "bidderName": "سامي التاجر",
+    "amount": 16,
+    "isWinning": true,
+    "bidTime": "2024-11-08T16:00:00"
+  }
+]

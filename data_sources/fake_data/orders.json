@@ -1,0 +1,125 @@
+[
+  {
+    "id": "ord-001",
+    "buyerId": "user-trader-001",
+    "buyerName": "سامي التاجر",
+    "farmerId": "user-farm-001",
+    "totalAmount": 900,
+    "status": "InDelivery",
+    "paymentStatus": "Paid",
+    "notes": "يرجى التوصيل قبل الظهر",
+    "createdAt": "2024-11-07T09:00:00",
+    "deliveryAddress": {
+      "city": "القاهرة",
+      "governorate": "القاهرة",
+      "street": "شارع الجمهورية"
+    },
+    "items": [
+      {
+        "id": "item-001",
+        "productId": "prod-001",
+        "productName": "بطاطس بيتربيتا",
+        "quantity": 50,
+        "unitPriceAtOrder": 18,
+        "subtotal": 900
+      }
+    ],
+    "payment": {
+      "id": "pay-001",
+      "method": "CashOnDelivery",
+      "status": "Paid",
+      "amount": 900,
+      "paidAt": "2024-11-08T10:00:00"
+    },
+    "logistics": {
+      "id": "log-001",
+      "driverName": "خالد السواق",
+      "driverPhone": "01012345678",
+      "status": "InTransit",
+      "estimatedDelivery": "2024-11-09T15:00:00",
+      "actualDelivery": null
+    }
+  },
+  {
+    "id": "ord-002",
+    "buyerId": "user-trader-002",
+    "buyerName": "كريم أحمد",
+    "farmerId": "user-farm-002",
+    "totalAmount": 360,
+    "status": "Pending",
+    "paymentStatus": "Unpaid",
+    "notes": "",
+    "createdAt": "2024-11-09T08:00:00",
+    "deliveryAddress": {
+      "city": "الإسكندرية",
+      "governorate": "الإسكندرية",
+      "street": "طريق الكورنيش"
+    },
+    "items": [
+      {
+        "id": "item-002",
+        "productId": "prod-002",
+        "productName": "طماطم بلدي",
+        "quantity": 30,
+        "unitPriceAtOrder": 12,
+        "subtotal": 360
+      }
+    ],
+    "payment": {
+      "id": "pay-002",
+      "method": "BankTransfer",
+      "status": "Unpaid",
+      "amount": 360,
+      "paidAt": null
+    },
+    "logistics": {
+      "id": "log-002",
+      "driverName": null,
+      "driverPhone": null,
+      "status": "NotScheduled",
+      "estimatedDelivery": null,
+      "actualDelivery": null
+    }
+  },
+  {
+    "id": "ord-003",
+    "buyerId": "user-trader-001",
+    "buyerName": "سامي التاجر",
+    "farmerId": "user-farm-005",
+    "totalAmount": 2240,
+    "status": "Delivered",
+    "paymentStatus": "Paid",
+    "notes": "توصيل للمخزن المركزي",
+    "createdAt": "2024-11-05T10:00:00",
+    "deliveryAddress": {
+      "city": "القاهرة",
+      "governorate": "القاهرة",
+      "street": "طريق العوبيد"
+    },
+    "items": [
+      {
+        "id": "item-003",
+        "productId": "prod-005",
+        "productName": "ذرة صفراء",
+        "quantity": 160,
+        "unitPriceAtOrder": 14,
+        "subtotal": 2240
+      }
+    ],
+    "payment": {
+      "id": "pay-003",
+      "method": "BankTransfer",
+      "status": "Paid",
+      "amount": 2240,
+      "paidAt": "2024-11-05T14:00:00"
+    },
+    "logistics": {
+      "id": "log-003",
+      "driverName": "محمود الشريف",
+      "driverPhone": "01098765432",
+      "status": "Delivered",
+      "estimatedDelivery": "2024-11-06T12:00:00",
+      "actualDelivery": "2024-11-06T11:30:00"
+    }
+  }
+]

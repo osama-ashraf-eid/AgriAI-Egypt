@@ -1,0 +1,44 @@
+[
+  {
+    "id": "auct-001",
+    "productId": "prod-002",
+    "productName": "طماطم بلدي",
+    "farmerId": "user-farm-002",
+    "farmerName": "محمد السيد",
+    "startDate": "2024-11-08T10:00:00",
+    "endDate": "2024-11-10T06:00:00",
+    "startingPrice": 10,
+    "reservePrice": 15,
+    "currentPrice": 25,
+    "winnerId": null,
+    "status": "Active"
+  },
+  {
+    "id": "auct-002",
+    "productId": "prod-004",
+    "productName": "فراولة فريش",
+    "farmerId": "user-farm-004",
+    "farmerName": "أحمد خليل",
+    "startDate": "2024-11-09T08:00:00",
+    "endDate": "2024-11-11T08:00:00",
+    "startingPrice": 25,
+    "reservePrice": 30,
+    "currentPrice": 38,
+    "winnerId": null,
+    "status": "Active"
+  },
+  {
+    "id": "auct-003",
+    "productId": "prod-005",
+    "productName": "ذرة صفراء",
+    "farmerId": "user-farm-005",
+    "farmerName": "إبراهيم حسن",
+    "startDate": "2024-11-07T09:00:00",
+    "endDate": "2024-11-09T09:00:00",
+    "startingPrice": 10,
+    "reservePrice": 13,
+    "currentPrice": 16,
+    "winnerId": "user-trader-001",
+    "status": "Ended"
+  }
+]

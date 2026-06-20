@@ -1,0 +1,28 @@
+# env
+.env
+.env.*
+*.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# logs
+logs/
+*.log
+
+# venv
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# HF / HF Space cache
+.cache/
