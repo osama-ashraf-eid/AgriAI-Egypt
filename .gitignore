@@ -26,3 +26,6 @@ env/
 
 # HF / HF Space cache
 .cache/
+
+# Chroma Vector DB
+chroma_db/
